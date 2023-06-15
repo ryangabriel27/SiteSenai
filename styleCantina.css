@@ -1,0 +1,25 @@
+.titlePage {
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.text {
+    margin-left: 20px;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    align-self: center;
+}
+/* Table Styles */
+.tabela {
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+}
+
+
+
